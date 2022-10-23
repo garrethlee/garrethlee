@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome! I'm Garreth! 👋
 
-<!--
-**garrethlee/garrethlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓  I'm a 2nd year Computer Science and Statistics student at the  **University of British Columbia**   <img style="height:25px; width:25px;" src = "https://media4.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=ecf05e47bkmun0txjxx734zz885cye905lu68w5o1ai9f0wh&rid=giphy.gif&ct=s">
 
-Here are some ideas to get you started:
+- 😆  My interests revolve around **data science** and **machine learning**, with a focus on **business analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⏰ I'm currently learning **time series analysis**
+
+- ✉️ You can reach me via garreth.edderick@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/garrethlee)
+
+---
+
+[![Garreth's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethlee)](https://github.com/garrethlee/github-readme-stats)
+
