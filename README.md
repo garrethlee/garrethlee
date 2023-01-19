@@ -4,7 +4,7 @@
 
 - 😆  My interests revolve around **data science** and **machine learning**, with a focus on **business analytics**
 
-- ⏰ I'm currently learning **time series analysis**
+- ⏰ I'm currently learning data engineering👷, particularly **Airflow and Spark**
 
 - ✉️ You can reach me via garreth.edderick@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/garrethlee)
 
