@@ -1,10 +1,12 @@
 # Welcome! I'm Garreth! 👋
 
-- 🎓  I'm a 2nd year Computer Science and Statistics student at the  **University of British Columbia**   <img style="height:25px; width:25px;" src = "https://media4.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=ecf05e47bkmun0txjxx734zz885cye905lu68w5o1ai9f0wh&rid=giphy.gif&ct=s">
+- Currently a ML Engineer Intern @ HuggingFace <img style="height:25px; width:25px;" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg">
 
-- 😆  My interests revolve around **data science** and **machine learning**, with a focus on **business analytics**
+- 🎓  I'm a 4th year Computer Science and Statistics student at the  **University of British Columbia**   <img style="height:25px; width:25px;" src = "https://media4.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=ecf05e47bkmun0txjxx734zz885cye905lu68w5o1ai9f0wh&rid=giphy.gif&ct=s">
 
-- ⏰ I'm currently learning data engineering👷, particularly **Spark**
+- 😆  My interests revolve around **data science** and **machine learning**, with a focus on **LLMs**
+
+- ⏰ I'm currently learning various RAG methods and synthetic dataset creation.
 
 - ✉️ You can reach me via garreth.edderick@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/garrethlee)
 
