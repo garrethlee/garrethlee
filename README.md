@@ -10,7 +10,3 @@
 
 - ✉️ You can reach me via garreth.edderick@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/garrethlee)
 
----
-
-[![Garreth's GitHub stats](https://github-readme-stats.vercel.app/api?username=garrethlee)](https://github.com/garrethlee/github-readme-stats)
-
