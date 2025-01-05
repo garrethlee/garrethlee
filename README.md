@@ -1,6 +1,6 @@
 # Welcome! I'm Garreth! 👋
 
-- Currently a ML Engineer Intern @ HuggingFace <img style="height:25px; width:25px;" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg">
+- Prev: Cohere, HuggingFace, Wealthsimple
 
 - 🎓  I'm a 4th year Computer Science and Statistics student at the  **University of British Columbia**   <img style="height:25px; width:25px;" src = "https://media4.giphy.com/media/elPWwFi9qXhFRLxPaY/giphy.gif?cid=ecf05e47bkmun0txjxx734zz885cye905lu68w5o1ai9f0wh&rid=giphy.gif&ct=s">
 
